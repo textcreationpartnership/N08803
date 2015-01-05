@@ -112,15 +112,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:011246_0000_0F86776DE37E9410"/>
-            <pb facs="tcp:011246_0001_0F86776E83530F18"/>
+            <pb facs="unknown:011246_0000_0F86776DE37E9410"/>
+            <pb facs="unknown:011246_0001_0F86776E83530F18"/>
             <p>AN ELEGY TO THE INFAMOUS MEMORY OF S<hi rend="sup">r</hi>. F— B——.</p>
             <q>AURI CAECUS AMORE,
 VENDIIT HIC PATRIAM.</q>
             <p>PRINTED IN THE YEAR M,DCC,LXIX,</p>
          </div>
          <div type="poem">
-            <pb facs="tcp:011246_0002_0F86776F58D18FB8"/>
+            <pb facs="unknown:011246_0002_0F86776F58D18FB8"/>
             <head>JOIN OR DIE.</head>
             <lg>
                <l>Nor the harsh Threats of Tyrants bearing Rule,</l>
@@ -130,13 +130,13 @@ VENDIIT HIC PATRIAM.</q>
             </lg>
          </div>
          <div type="dedication">
-            <pb facs="tcp:011246_0003_0F8677718CC1D2C8"/>
+            <pb facs="unknown:011246_0003_0F8677718CC1D2C8"/>
             <p>TO JOHN DICKINSON, <abbr>Esq</abbr> THE INGENIOUS AND LEARNED AUTHOR OF THE FARMERS LETTERS. This Elegy is humbly Dedicated: As a sincere Testimony of the Author's Esteem and Respect for the MAN, Who has gloriously distinguished HIMSELF; By asserting the RIGHTS and LIBERTIES of AMERICA, In a Manner, that renders HIM an HONOUR to his Education, A PUBLICK BLESSING to his Country: And will immortalize his Name with RENOWN, to the latest Ages of Time.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:011246_0004_0F867772F3C91868"/>
+            <pb facs="unknown:011246_0004_0F867772F3C91868"/>
             <head>AN Elegy, &amp;c.</head>
             <lg n="1">
                <head>I.</head>
@@ -170,7 +170,7 @@ VENDIIT HIC PATRIAM.</q>
                <l>To prostitute such doctrines as THEY preach?</l>
             </lg>
             <lg n="5">
-               <pb n="6" facs="tcp:011246_0005_0F86777811FADC08"/>
+               <pb n="6" facs="unknown:011246_0005_0F86777811FADC08"/>
                <head>V.</head>
                <l>When sordid LUST that Concubine of POWER,</l>
                <l>Who deeply rowls in Luxury and Pride,</l>
@@ -206,7 +206,7 @@ VENDIIT HIC PATRIAM.</q>
                <l>To wipe away its Consciousness and Stain.</l>
             </lg>
             <lg n="10">
-               <pb n="7" facs="tcp:011246_0006_0F867778816281E8"/>
+               <pb n="7" facs="unknown:011246_0006_0F867778816281E8"/>
                <head>X.</head>
                <l>But when the Guilt of Scandal and Disgrace,</l>
                <l>Blocks up the glorious Avenue to FAME:</l>
@@ -242,7 +242,7 @@ VENDIIT HIC PATRIAM.</q>
                <l>Despis'd by MOST, a Scandal to the Race!</l>
             </lg>
             <lg n="15">
-               <pb n="8" facs="tcp:011246_0007_0F8677793B5481D0"/>
+               <pb n="8" facs="unknown:011246_0007_0F8677793B5481D0"/>
                <head>XV.</head>
                <l>Though in this mean and despicable State</l>
                <l>Reserv'd, nor fit for Statesman or a Guide!</l>
@@ -278,7 +278,7 @@ VENDIIT HIC PATRIAM.</q>
                <l>Our tame Submission to it's lawless SWAY.</l>
             </lg>
             <lg n="20">
-               <pb n="9" facs="tcp:011246_0008_0F86778C1D2D6BE0"/>
+               <pb n="9" facs="unknown:011246_0008_0F86778C1D2D6BE0"/>
                <head>XX.</head>
                <l>Thou, Old in Sin! the vilest Course didst take,</l>
                <l>But TRUTH much wrong'd constrain'd thee to forbear:</l>
@@ -316,9 +316,9 @@ VENDIIT HIC PATRIAM.</q>
             <gap reason="duplicate" extent="1 page">
                <desc>〈1 page duplicate〉</desc>
             </gap>
-            <pb n="9" facs="tcp:011246_0009_0F86779BA118FDF0"/>
+            <pb n="9" facs="unknown:011246_0009_0F86779BA118FDF0"/>
             <lg n="25">
-               <pb n="10" facs="tcp:011246_0010_0F86779C61B50F10"/>
+               <pb n="10" facs="unknown:011246_0010_0F86779C61B50F10"/>
                <head>XXV.</head>
                <l>Bewail, vile Wretch! in penitential Tears,</l>
                <l>Past Time mispent to ruminate on Sin!</l>
@@ -354,7 +354,7 @@ VENDIIT HIC PATRIAM.</q>
                <l>Since Vice seems on thy Character entail'd.</l>
             </lg>
             <lg n="30">
-               <pb n="11" facs="tcp:011246_0011_0F86779DC2374A90"/>
+               <pb n="11" facs="unknown:011246_0011_0F86779DC2374A90"/>
                <head>XXX.</head>
                <l>Go! then, entreat thy Soverign to be kind,</l>
                <l>Or Death to snatch from temporary Woe!</l>
@@ -390,7 +390,7 @@ VENDIIT HIC PATRIAM.</q>
                <l>And spend thy Life in Horror and Despair.</l>
             </lg>
             <lg n="35">
-               <pb n="12" facs="tcp:011246_0012_0F86779F4FD204B0"/>
+               <pb n="12" facs="unknown:011246_0012_0F86779F4FD204B0"/>
                <head>XXXV.</head>
                <l>Implore Forgiveness of indulgent Heaven,</l>
                <l>Unless DELAY this Favour has impair'd:</l>
@@ -413,7 +413,7 @@ VENDIIT HIC PATRIAM.</q>
                <l>And there erect in Majesty thy Throne.</l>
             </lg>
             <lg n="38">
-               <pb n="13" facs="tcp:011246_0013_0F8677A017B780B0"/>
+               <pb n="13" facs="unknown:011246_0013_0F8677A017B780B0"/>
                <head>XXXVIII.</head>
                <l>Lost in thy Sway of Avarice and Pride,</l>
                <l>Dependant Tools Subservient to they Laws:</l>
@@ -449,7 +449,7 @@ VENDIIT HIC PATRIAM.</q>
                <l>Unaw'd by thee, thy daring Threats oppose.</l>
             </lg>
             <lg n="43">
-               <pb n="14" facs="tcp:011246_0014_0F8677A173ECB598"/>
+               <pb n="14" facs="unknown:011246_0014_0F8677A173ECB598"/>
                <head>XLIII.</head>
                <l>May thou, vile Traytor to thy Country's Good!</l>
                <l>Whose Heart no Thoughts of Gratitude can bear:</l>
